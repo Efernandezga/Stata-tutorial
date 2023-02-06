@@ -7,7 +7,7 @@
 	MASTER DO FILE, CORRE  TODOS LOS DO FILES DE TODOS LOS STAGES
 	*/
 ********************************************************************************
-clear all
+Patatas
 gl n=1	//Cambiar n de acuerdo al usuario 
 {
 	if $n==1 {
